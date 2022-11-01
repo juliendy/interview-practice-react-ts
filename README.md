@@ -1,6 +1,6 @@
 # TypeScript and React (with vite) interview practice
 A little practice exercise thesarus where user can fetch synonyms to words. Users can also click on a word in the list of results to also see synonyms further.<br>
-This simple app is powered by - Data MuseAPI - __[path](https://www.datamuse.com/api/)]_
+This simple app is powered by Data MuseAPI - __ [path](https://www.datamuse.com/api/)]_
 <br>
 
 ## What I Practiced 🧠:<br>
