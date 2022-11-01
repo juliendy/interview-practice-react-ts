@@ -11,4 +11,4 @@ This simple app is powered by Data MuseAPI - __ [path](https://www.datamuse.com/
 -Conditional logic and mapping with React<br>
 
 ## Preview:
-<br>![](public/preview.gif)<br>
+![About.me](https://media.giphy.com/media/bgz72jRPdc4q3d4YrD/giphy.gif)
